@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Vendor Shafts for Fusion
+## Vendor Shafts for Fusion 
 
 Aquí ponemos las descargas xd
 
+[Download Latest](){: .btn}
+
 ---
+
 ## Installation Guide
 
 1. Download the latest `.zip` file from the Releases page.

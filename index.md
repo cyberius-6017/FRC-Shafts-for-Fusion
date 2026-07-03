@@ -2,12 +2,12 @@
 layout: default
 ---
 
-##Vendor Shafts for Fusion
+## Vendor Shafts for Fusion
 
 Aquí ponemos las descargas xd
 
 ---
-##Installation Guide
+## Installation Guide
 
 1. Download the latest `.zip` file from the Releases page.
 2. Extract the folder to your Autodesk Fusion Add-ins directory.

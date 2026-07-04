@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Vendor Shafts for Fusion 
+## Generate Spacers and Vendor Shafts Instantly 
 
-Aquí ponemos las descargas xd
+Current version includes:
+* Hex Shaft generator: With presets for drilled 0.5 & 0.375.
+* Hex Spacer Generator: With preset tolerances for 3D printing.
+* Round Spacer Generator: With presets for #10-32
 
-[Download Latest](){: .btn}
+
+[Download Latest](https://github.com/cyberius-6017/FRC-Shafts-for-Fusion/releases/latest){: .btn}
 
 ---
 

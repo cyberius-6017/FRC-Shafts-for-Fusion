@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## Generate vendor shafts and spacers instantly 
+{: .text-center}
+
 [Download Latest](https://github.com/cyberius-6017/FRC-Shafts-for-Fusion/releases/latest){: .btn}
 
 ---
@@ -20,22 +22,26 @@ layout: default
 
 ---
 
-## Current version includes:
+## Current version includes
 
-### Vendor Shaft generator:
+### Vendor Shaft generator
+
 For Max Spline, Spline XL, Round Hex & others.
-![Vendor Shaft Generator](AddIn_Images/Vendor%20Shaft.png)
+![Vendor Shaft Generator](images/Vendor%20Shaft.png)
 
-### Hex Shaft generator: 
+### Hex Shaft generator
+
 With presets for drilled 0.5 & 0.375.
-![Hex Shaft Generator](AddIn_Images/HexShaft.png)
+![Hex Shaft Generator](images/HexShaft.png)
 
-### Hex Spacer generator: 
+### Hex Spacer generator
+
 With preset tolerances for 3D printing.
-![Hex Spacer Generator](AddIn_Images/HexSpacer.png)
+![Hex Spacer Generator](images/HexSpacer.png)
 
-### Round Spacer generator: 
+### Round Spacer generator
+
 With presets for #10-32 bolts and other common hardware.
-![Round Spacer Generator](AddIn_Images/RoundSpacer.png)
+![Round Spacer Generator](images/RoundSpacer.png)
 
 [Download Latest](https://github.com/cyberius-6017/FRC-Shafts-for-Fusion/releases/latest){: .btn}

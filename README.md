@@ -1,6 +1,6 @@
 # FRC Shafts & Spacers for Autodesk Fusion
 
-[![Website](https://img.shields.io/badge/Website-Visit_Site-006eb6?style=for-the-badge)](https://cyberius-6017.github.io/FRC-Shafts-for-Fusion/)
+[![Website](https://img.shields.io/badge/Website-Visit_Site-4fc3ff?style=for-the-badge)](https://cyberius-6017.github.io/FRC-Shafts-for-Fusion/)
 [![Latest Release](https://img.shields.io/github/v/release/cyberius-6017/FRC-Shafts-for-Fusion?style=for-the-badge&color=4fc3ff)](https://github.com/cyberius-6017/FRC-Shafts-for-Fusion/releases/latest)
 
 Generate vendor shafts and spacers instantly inside Autodesk Fusion. Built specifically for FRC workflows to save time on standard hardware modeling.

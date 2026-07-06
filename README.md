@@ -24,18 +24,14 @@ Generate vendor shafts and spacers instantly inside Autodesk Fusion. Built speci
 
 ### Vendor Shaft Generator
 Generate accurate profiles for Max Spline, Spline XL, Round Hex & others.
-![Vendor Shaft Generator](images/Vendor%20Shaft.png)
 
 ### Hex Shaft Generator
 Customizable hex shafts with presets for drilled 0.5" & 0.375".
-![Hex Shaft Generator](images/HexShaft.png)
 
 ### Hex Spacer Generator
 Quick spacers with built-in preset tolerances for 3D printing.
-![Hex Spacer Generator](images/HexSpacer.png)
 
 ### Round Spacer Generator
 Quick spacers with presets for #10-32 bolts and other common FRC hardware.
-![Round Spacer Generator](images/RoundSpacer.png)
 
 ---

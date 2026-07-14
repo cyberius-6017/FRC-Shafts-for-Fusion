@@ -26,22 +26,32 @@ layout: default
 
 ### Vendor Shaft generator
 
-For Max Spline, Spline XL, Round Hex & others.
+Generate accurate profiles for Max Spline, Spline XL, Round Hex & others.
+
 ![Vendor Shaft Generator](images/Vendor%20Shaft.png)
 
 ### Hex Shaft generator
 
-With presets for drilled 0.5 & 0.375.
+Customizable hex shafts with presets for drilled 0.5" & 0.375".
+
 ![Hex Shaft Generator](images/HexShaft.png)
 
 ### Hex Spacer generator
 
-With preset tolerances for 3D printing.
+Quick spacers with built-in preset tolerances for 3D printing.
+
 ![Hex Spacer Generator](images/HexSpacer.png)
 
 ### Round Spacer generator
 
-With presets for #10-32 bolts and other common hardware.
+Quick spacers with presets for #10-32 bolts and other common FRC hardware.
+
 ![Round Spacer Generator](images/RoundSpacer.png)
+
+### Shaft Bore Sketch Tool
+
+Easily sketch bore profiles with preset offsets for MaxSpline, Spline XL & other vendor shafts.
+
+![Shaft Bore Sketch Tool](images/ShaftBore.png)
 
 [Download Latest](https://github.com/cyberius-6017/FRC-Shafts-for-Fusion/releases/latest){: .btn}

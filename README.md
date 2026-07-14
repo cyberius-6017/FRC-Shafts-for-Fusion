@@ -35,4 +35,7 @@ Quick spacers with built-in preset tolerances for 3D printing.
 ### Round Spacer Generator
 Quick spacers with presets for #10-32 bolts and other common FRC hardware.
 
+### Shaft Bore Sketch Tool
+Easily sketch bore profiles with preset offsets for MaxSpline, Spline XL & other vendor shafts.
+
 ---
